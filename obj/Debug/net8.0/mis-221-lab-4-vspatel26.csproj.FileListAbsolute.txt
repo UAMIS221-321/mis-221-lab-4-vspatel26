@@ -1,0 +1,15 @@
+/Users/vishnupatel/Desktop/221-fall/lab/lab-3/mis-221-lab-4-vspatel26/bin/Debug/net8.0/mis-221-lab-4-vspatel26
+/Users/vishnupatel/Desktop/221-fall/lab/lab-3/mis-221-lab-4-vspatel26/bin/Debug/net8.0/mis-221-lab-4-vspatel26.deps.json
+/Users/vishnupatel/Desktop/221-fall/lab/lab-3/mis-221-lab-4-vspatel26/bin/Debug/net8.0/mis-221-lab-4-vspatel26.runtimeconfig.json
+/Users/vishnupatel/Desktop/221-fall/lab/lab-3/mis-221-lab-4-vspatel26/bin/Debug/net8.0/mis-221-lab-4-vspatel26.dll
+/Users/vishnupatel/Desktop/221-fall/lab/lab-3/mis-221-lab-4-vspatel26/bin/Debug/net8.0/mis-221-lab-4-vspatel26.pdb
+/Users/vishnupatel/Desktop/221-fall/lab/lab-3/mis-221-lab-4-vspatel26/obj/Debug/net8.0/mis-221-lab-4-vspatel26.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vishnupatel/Desktop/221-fall/lab/lab-3/mis-221-lab-4-vspatel26/obj/Debug/net8.0/mis-221-lab-4-vspatel26.AssemblyInfoInputs.cache
+/Users/vishnupatel/Desktop/221-fall/lab/lab-3/mis-221-lab-4-vspatel26/obj/Debug/net8.0/mis-221-lab-4-vspatel26.AssemblyInfo.cs
+/Users/vishnupatel/Desktop/221-fall/lab/lab-3/mis-221-lab-4-vspatel26/obj/Debug/net8.0/mis-221-lab-4-vspatel26.csproj.CoreCompileInputs.cache
+/Users/vishnupatel/Desktop/221-fall/lab/lab-3/mis-221-lab-4-vspatel26/obj/Debug/net8.0/mis-221-lab-4-vspatel26.sourcelink.json
+/Users/vishnupatel/Desktop/221-fall/lab/lab-3/mis-221-lab-4-vspatel26/obj/Debug/net8.0/mis-221-lab-4-vspatel26.dll
+/Users/vishnupatel/Desktop/221-fall/lab/lab-3/mis-221-lab-4-vspatel26/obj/Debug/net8.0/refint/mis-221-lab-4-vspatel26.dll
+/Users/vishnupatel/Desktop/221-fall/lab/lab-3/mis-221-lab-4-vspatel26/obj/Debug/net8.0/mis-221-lab-4-vspatel26.pdb
+/Users/vishnupatel/Desktop/221-fall/lab/lab-3/mis-221-lab-4-vspatel26/obj/Debug/net8.0/mis-221-lab-4-vspatel26.genruntimeconfig.cache
+/Users/vishnupatel/Desktop/221-fall/lab/lab-3/mis-221-lab-4-vspatel26/obj/Debug/net8.0/ref/mis-221-lab-4-vspatel26.dll
